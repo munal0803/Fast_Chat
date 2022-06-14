@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823639326015",
+    "project_id": "fast-chat-c3505",
+    "storage_bucket": "fast-chat-c3505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823639326015:android:54d52613b3d63314ed678a",
+        "android_client_info": {
+          "package_name": "co.mjain.fast_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823639326015-qp28m5a2q6njm857hpjddfa11avn5kab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH0DLv6cyz7azztbS6CdyyHIhUlCtOh40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823639326015-qp28m5a2q6njm857hpjddfa11avn5kab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
